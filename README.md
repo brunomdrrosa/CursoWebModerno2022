@@ -35,7 +35,6 @@ Este repositório contém diversos projetos que eu realizei para aprender Desenv
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </h3>
 
 ---
