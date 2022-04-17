@@ -20,9 +20,11 @@ Este repositório contém diversos projetos que eu realizei para aprender Desenv
 ⚙️ Tecnologias utilizadas
 
 <p>&nbsp;</p>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </h3>
 
 ---
@@ -38,6 +40,18 @@ CRUD com Express.js
 </h4>
 <p align="center">
   <a href="https://github.com/brunomdrrosa/CursoWebModerno2022/tree/main/projeto-api-express"><img src="https://i.imgur.com/hQEZ56k.png"></a>
+</p>
+
+<h2 align="center">
+Flappy Bird
+</h2>
+<h4 align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</h4>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/CursoWebModerno2022/tree/main/projeto-flappy-bird"><img src="https://imgur.com/xnfDFc8.png"></a>
 </p>
 
 ---
