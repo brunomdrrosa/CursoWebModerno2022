@@ -51,7 +51,7 @@ Flappy Bird
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </h4>
 <p align="center">
-  <a href="https://github.com/brunomdrrosa/CursoWebModerno2022/tree/main/projeto-flappy-bird"><img src="https://imgur.com/xnfDFc8.png"></a>
+  <a href="https://brunomdrrosa.github.io/flappyBird/"><img src="https://imgur.com/xnfDFc8.png"></a>
 </p>
 
 ---
