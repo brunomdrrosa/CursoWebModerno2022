@@ -25,6 +25,7 @@ Este repositório contém diversos projetos que eu realizei para aprender Desenv
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
 </h3>
 
 ---
@@ -52,6 +53,18 @@ Flappy Bird
 </h4>
 <p align="center">
   <a href="https://brunomdrrosa.github.io/flappyBird/"><img src="https://imgur.com/xnfDFc8.png"></a>
+</p>
+
+<h2 align="center">
+Single Page Application com Gulp
+</h2>
+<h4 align="center">
+  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+</h4>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/CursoWebModerno2022/tree/main/gulp/spa"><img src="https://i.imgur.com/TcCaiX6.png"></a>
 </p>
 
 ---
